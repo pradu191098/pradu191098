@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#main{
+    background-image: url('D:/Html/bootstrap/only sales/only sale1.jpg');
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main3{
+    transition: width 1s height 1s transform 1s;
+}
+.main3:hover{
+    transform: scale(1.2,1.2);
+}
