@@ -3,7 +3,7 @@
     margin: 0;
 }
 #main{
-    background-image: url('D:/Html/bootstrap/only sales/only sale1.jpg');
+    background-image: url('only sale1.jpg');
     height: 600px;
     background-position: center;
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@
     transform: scale(1.2,1.2);
 }
 #banner{
-    background-image: url('D:/Html/bootstrap/only sales/only sale17.jpg');
+    background-image: url('only sale17.jpg');
     height: 700px;
     background-repeat: no-repeat;
     background-size: cover;
